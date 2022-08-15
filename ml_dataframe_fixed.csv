@@ -1,0 +1,495 @@
+,category_id,category,total_items_in_category,best_seller_product,total_visits,price,currency,sold,creation_date,country,state,brand,average_product_rating,seller_id
+0,MCU1747,Accesorios para Vehículos,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+1,MCU1367,Arte y Antigüedades,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+2,MCU1743,"Autos, Motos y Otros",0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+3,MCU1039,Cámaras Digitales y Foto,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+4,MCU1051,Celulares y Teléfonos,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+5,MCU1798,Coleccionables y Hobbies,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+6,MCU1648,Computación,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+7,MCU1144,Consolas y Videojuegos,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+8,MCU1276,Deportes y Fitness,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+9,MCU1000,"Electrónica, Audio y Video",0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+10,MCU1574,Hogar y Electrodomésticos,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+11,MCU1430,Indumentaria y Accesorios,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+12,MCU1459,Inmuebles,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+13,MCU1182,Instrumentos Musicales,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+14,MCU3937,Joyas y Relojes,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+15,MCU1132,Juegos y Juguetes,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+16,MCU3025,"Libros, Revistas y Comics",0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+17,MCU1168,Música y Películas,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+18,MCU1540,Servicios,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+19,MCU1953,Otras categorías,0,not found,not found,not found,not found,not found,not found,Cuba,not found,not found,not found,not found
+20,MLB5672,Acessórios para Veículos,104021713,Som automotivo Multilaser Trip P3350 com USB e bluetooth,{'MLB15589509': 0},93.5,BRL,72457,2020-04-20T19:48:38Z,Brasil,Santa Catarina,Multilaser,4.4,1024303377
+21,MLB271599,Agro,151978,Saco Para Silagem Pacote Com 100 Unidades + 100 Abraçadeiras,{'MLB2159584540': 24147},158.55,BRL,750,2022-01-30T01:50:25.000Z,Brasil,São Paulo,Gobi Brasil,4.4,224000291
+22,MLB1403,Alimentos e Bebidas,1225622,Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg,{'MLB1521175228': 214415},13.76,BRL,10000,2020-05-12T14:03:05.000Z,Brasil,São Paulo,MANICREM,4.4,566975496
+23,MLB1071,Animais,2139068,"Bravecto Antipulgas De 4,5 A 10kg - Full",{'MLB1436713704': 214746},152.57,BRL,5000,2020-02-14T13:09:17.000Z,Brasil,Minas Gerais,,4.7,14838037
+24,MLB1367,Antiguidades e Coleções,1236480,"Bandeira Do Brasil Oficial Dupla Face (1,50 X 0,90)",{'MLB1785496717': 50989},39.9,BRL,5000,2021-02-02T19:16:18.000Z,Brasil,São Paulo,Brasil,4,653305084
+25,MLB1368,"Arte, Papelaria e Armarinho",2934764,"Fita Dupla Face Profissional Extra Forte - 9,0mm X 3m",{'MLB794319246': 523335},16.97,BRL,5000,2016-09-07T20:15:24.000Z,Brasil,São Paulo,Dupla face,4.2,193392276
+26,MLB1384,Bebês,1873546,Lenço Umedecido Mamypoko C/200,{'MLB2120720573': 23862},21,BRL,5000,2021-12-21T19:13:35.000Z,Brasil,São Paulo,MamyPoko,0,736159205
+27,MLB1246,Beleza e Cuidado Pessoal,5721200,Máquina Perfect Barber Profissional Dragão Acabamento Barba,{'MLB1930554131': 465952},90.91,BRL,5000,2021-06-28T13:05:30.000Z,Brasil,São Paulo,Não,4.1,402955888
+28,MLB1132,Brinquedos e Hobbies,3712639,Bicicleta  infantil Nathor Flower aro 12 freio tambor cor rosa com rodas de treinamento,{'MLB13077908': 0},199.9,BRL,22021,2018-11-27T19:37:08Z,Brasil,Paraná,Nathor,4.7,747517872
+29,MLB1430,"Calçados, Roupas e Bolsas",11116945,Kit 3 Calça Jeans Skinny Masculina Com Lycra Estica Muito Nf,{'MLB2062548750': 988310},164.77,BRL,17000,2021-10-21T21:41:30.000Z,Brasil,São Paulo,MultiMarcas,4.4,794195725
+30,MLB1039,Câmeras e Acessórios,880722,Cartão de memória SanDisk SDSQUNS-064G-GN3MA  Ultra com adaptador SD 64GB,{'MLB8859356': 0},32.1,BRL,181642,2018-01-17T12:31:30Z,Brasil,São Paulo,SanDisk,4.9,614625558
+31,MLB1743,"Carros, Motos e Outros",311734,not found,not found,not found,not found,not found,not found,Brasil,not found,not found,not found,not found
+32,MLB1574,"Casa, Móveis e Decoração",25129103,"Tapete 2,00x1,50 Costa Oro Shaggy Mega Promoção Peludo",{'MLB1813612114': 2719326},90.9,BRL,21011,2021-03-03T20:18:50.000Z,Brasil,São Paulo,Costa Oro,4.1,721373567
+33,MLB1051,Celulares e Telefones,3390980,Fone de ouvido in-ear sem fio QCY T1C preto,{'MLB15285466': 0},117,BRL,228146,2019-12-12T20:50:15Z,Brasil,São Paulo,QCY,0,372757449
+34,MLB1500,Construção,3556421,Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Original,{'MLB1984397653': 140858},108.9,BRL,5500,2021-08-18T17:39:20.000Z,Brasil,São Paulo,Lorenzetti,4.7,741345142
+35,MLB5726,Eletrodomésticos,2161648,Liquidificador portátil Mondial Turbo Power L-99 2.2 L preto com jarra de san 127V,{'MLB15578949': 0},119.99,BRL,101893,2020-04-07T21:55:24Z,Brasil,São Paulo,Mondial,4.8,130090710
+36,MLB1000,"Eletrônicos, Áudio e Vídeo",4122894,Fone de ouvido in-ear sem fio QCY T1C preto,{'MLB15285466': 0},117,BRL,228146,2019-12-12T20:50:15Z,Brasil,São Paulo,QCY,0,372757449
+37,MLB1276,Esportes e Fitness,4938284,Kit 2x Whey Protein + 2x Bcaa + 2x Creatina + Coqueteleira,{'MLB1373566834': 2666649},149.99,BRL,15000,2019-11-26T13:09:15.000Z,Brasil,São Paulo,"Proteina,Ganho de Massa Magra,Recuperação Muscular,Energia",3.6,259428092
+38,MLB263532,Ferramentas,3936011,Jogo De Ferramentas Kit 129 Peças C/ Maleta + 40 Peças,{'MLB1226520633': 11580875},134,BRL,50000,2019-05-08T13:02:19.000Z,Brasil,São Paulo,Sparta,4.5,116155669
+39,MLB12404,Festas e Lembrancinhas,2417564,Bexiga Balão Liso 9 Polegadas 50 Unidades,{'MLB1971608459': 75140},19.7,BRL,7950,2021-08-05T21:54:03.000Z,Brasil,São Paulo,Redondo,4.6,298303751
+40,MLB1144,Games,647447,Disco sólido interno Kingston SA400S37/240G 240GB preto,{'MLB19035706': 0},164.89,BRL,113116,2022-04-05T13:35:22Z,Brasil,São Paulo,Kingston,4.9,179165464
+41,MLB1459,Imóveis,3167088,not found,not found,not found,not found,not found,not found,Brasil,not found,not found,not found,not found
+42,MLB1499,Indústria e Comércio,2243728,Maquina Mercadopago Point Pro 2,{'MLB1777409825': 1498056},90,BRL,50000,2021-01-25T22:04:02.000Z,Brasil,Rio de Janeiro,MERCADO PAGO,4.4,72087730
+43,MLB1648,Informática,5172221,Disco sólido interno Kingston SA400S37/240G 240GB preto,{'MLB19035706': 0},164.89,BRL,113116,2022-04-05T13:35:22Z,Brasil,São Paulo,Kingston,4.9,179165464
+44,MLB218519,Ingressos,3416,800 Folha Papel Manteiga Forrar Caixa Pizza N.35 Octogonal,{'MLB1076259991': 39363},159.99,BRL,500,2018-08-01T09:06:06.000Z,Brasil,São Paulo,Pizza,5,51869795
+45,MLB1182,Instrumentos Musicais,1082581,Alto-falante Mondial CM-400 portátil com bluetooth preto e vermelho 110V/220V ,{'MLB18247621': 0},598,BRL,14229,2021-07-08T15:55:24Z,Brasil,São Paulo,Mondial,0,320099593
+46,MLB3937,Joias e Relógios,2957311,"Xiaomi Mi Smart Band 5 1.1"" caixa de  plástico pc  black, pulseira  black de  elastômero termoplástico e liga de alumínio XMSH10HM",{'MLB15963018': 0},162,BRL,126749,2020-07-29T19:45:52Z,Brasil,Paraná,Xiaomi,5,458103395
+47,MLB1196,"Livros, Revistas e Comics",8516614,Bíblia Evangélica Feminina / Masculina Letra Grande E Harpa,{'MLB686029277': 236960},34.9,BRL,5500,2015-08-03T15:37:16.000Z,Brasil,Rio de Janeiro,Papel,4.5,43316870
+48,MLB1168,"Música, Filmes e Seriados",2859734,Tubo Ressonância Lax Vox Exercícios Vocal Silicone 35cm C/nf,{'MLB2117864535': 3219},27.87,BRL,455,2021-12-17T23:43:41.000Z,Brasil,São Paulo,Tubo,0,654788911
+49,MLB264586,Saúde,1965666,Kit 200 Máscara Caixa Descartável Tripla C/ Filtro Meltblown,{'MLB1684703866': 2903883},39.92,BRL,74680,2020-10-16T00:33:47.000Z,Brasil,São Paulo,Adultos,4.4,583044314
+50,MLB1540,Serviços,15996,not found,not found,not found,not found,not found,not found,Brasil,not found,not found,not found,not found
+51,MLB1953,Mais Categorias,1859718,Incenso Nirvana Natural De Longa Duração Escolha Seu Aroma,{'MLB1890840583': 69300},16.82,BRL,7480,2021-05-20T14:47:19.000Z,Brasil,São Paulo,Presente Dia dos Pais Aromaterapia Purificar Energia,4.2,154616245
+52,MEC5725,Accesorios para Vehículos,29000,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+53,MEC1512,Agro,3189,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+54,MEC1403,Alimentos y Bebidas,2856,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+55,MEC1071,Animales y Mascotas,4818,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+56,MEC1367,Arte y Antigüedades,4555,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+57,MEC1743,"Autos, Motos y Otros",1253,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+58,MEC1384,Bebés,2233,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+59,MEC1246,Belleza y Cuidado Personal,15265,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+60,MEC1039,Cámaras y Accesorios,3270,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+61,MEC1051,Celulares y Telefonía,36143,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+62,MEC1798,Coleccionables,1414,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+63,MEC1648,Computación,95425,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+64,MEC1144,Consolas y Videojuegos,5058,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+65,MEC454381,Construcción,2829,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+66,MEC1276,Deportes y Fitness,9868,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+67,MEC1000,"Electrónica, Audio y Video",23967,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+68,MEC454289,Herramientas,11079,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+69,MEC1574,Hogar y Muebles,34284,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+70,MEC1499,Industrias y Oficinas,9043,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+71,MEC1459,Inmuebles,1813,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+72,MEC1182,Instrumentos Musicales,3258,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+73,MEC3937,Joyas y Relojes,4538,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+74,MEC1132,Juegos y Juguetes,11487,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+75,MEC1168,"Música, Libros y Películas",6557,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+76,MEC435280,"Recuerdos, Cotillón y Fiestas",1115,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+77,MEC1430,Ropa y Accesorios,13155,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+78,MEC409431,Salud y Equipamiento Médico,13874,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+79,MEC1540,Servicios,959,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+80,MEC1953,Otras categorías,9283,not found,not found,not found,not found,not found,not found,Ecuador,not found,not found,not found,not found
+81,MPY1747,Accesorios para Vehículos,147,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+82,MPY1512,Agro,3,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+83,MPY1367,Arte y Antigüedades,33,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+84,MPY1743,"Autos, Motos y Otros",224,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+85,MPY1039,Cámaras Digitales y Foto.,166,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+86,MPY1051,Celulares y Teléfonos,761,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+87,MPY1798,Coleccionables y Hobbies,2,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+88,MPY1648,Computación,812,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+89,MPY1144,Consolas y Videojuegos,188,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+90,MPY1276,Deportes y Fitness,284,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+91,MPY1000,"Electrónica, Audio y Video",479,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+92,MPY1574,Hogar y Electrodomésticos,287,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+93,MPY1430,Indumentaria y Accesorios,460,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+94,MPY1459,Inmuebles,627,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+95,MPY1182,Instrumentos Musicales,375,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+96,MPY3937,Joyas y Relojes,17,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+97,MPY1132,Juegos y Juguetes,29,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+98,MPY3025,"Libros, Revistas y Comics",108,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+99,MPY1168,Música y Películas,4,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+100,MPY1540,Servicios,235,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+101,MPY1953,Otras categorías,652,not found,not found,not found,not found,not found,not found,Paraguay,not found,not found,not found,not found
+102,MSV1747,Accesorios para Vehículos,3,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+103,MSV1512,Agro,2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+104,MSV1367,Arte y Antigüedades,45,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+105,MSV1743,"Autos, Motos y Otros",50,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+106,MSV1039,Cámaras Digitales y Foto.,6,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+107,MSV1051,Celulares y Teléfonos,133,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+108,MSV1798,Coleccionables y Hobbies,2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+109,MSV1648,Computación,49,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+110,MSV1144,Consolas y Videojuegos,18,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+111,MSV1276,Deportes y Fitness,3,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+112,MSV1000,"Electrónica, Audio y Video",9,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+113,MSV1574,Hogar y Electrodomésticos,11,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+114,MSV1430,Indumentaria y Accesorios,1,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+115,MSV1459,Inmuebles,237,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+116,MSV1182,Instrumentos Musicales,2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+117,MSV3937,Joyas y Relojes,2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+118,MSV1132,Juegos y Juguetes,13,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+119,MSV3025,"Libros, Revistas y Comics",2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+120,MSV1168,Música y Películas,2,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+121,MSV1540,Servicios,285,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+122,MSV1953,Otras categorías,60,not found,not found,not found,not found,not found,not found,El Salvador,not found,not found,not found,not found
+123,MCO1747,Accesorios para Vehículos,2561135,Impermeable Siliconado Para Motociclista,{'MCO825255064': 83437},55385,COP,1977,2021-10-27T01:26:35.000Z,Colombia,Bogotá D.C.,puppys y shop,4.3,498209073
+124,MCO441917,Agro,9163,"Leonardita, Acondicionador De Suelos",{'MCO562536464': 11792},72000,COP,250,2020-05-15T00:38:25.000Z,Colombia,Boyaca,Diatomeas Colombia,4.7,138038335
+125,MCO1403,Alimentos y Bebidas,166913,Grageas Asquerosas Harry Potter,{'MCO817169589': 18012},14900,COP,500,2021-10-04T16:59:12.000Z,Colombia,Cundinamarca,Bean Bozzled,0,705081417
+126,MCO1071,Animales y Mascotas,854477,Fuente De Agua Para Gatos Bebedero Mascotas ,{'MCO829449957': 8196},98400,COP,250,2021-11-06T16:48:27.000Z,Colombia,Bogotá D.C.,catie,4.8,692301641
+127,MCO1367,Antigüedades y Colecciones,137540,Bandera Colombia Nacional 1mtr X1.5mt Exterior Grande,{'MCO652323820': 2559},24990,COP,200,2021-08-02T22:21:54.000Z,Colombia,Bogotá D.C.,Colombia,4,193264204
+128,MCO1368,"Arte, Papelería y Mercería",1186450,Calculadora Casio Fx570 Es Plus 2 Generación,{'MCO606252982': 12207},99900,COP,500,2021-02-07T17:03:06.000Z,Colombia,Bogotá D.C.,RCA502107-001V01,5,108866681
+129,MCO1384,Bebés,909692,Doble Extractor Leche Materna Eléctrico Real Bubee 2019,{'MCO497301208': 153943},76000,COP,500,2018-12-13T01:53:05.000Z,Colombia,Valle Del Cauca,Real Bubee,4.6,48335556
+130,MCO1246,Belleza y Cuidado Personal,2610914,Máquina recortadora VGR V-228 dorada 100V/240V,{'MCO18577861': 0},57970,COP,2534,2021-10-28T15:18:22Z,Colombia,Bogotá D.C.,VGR,4.8,66208468
+131,MCO40433,Boletas para Espectáculos,1008,Manillas Seguridad Papel Tyvek Eventos ( 1.000 Impresas ),{'MCO602899347': 2947},120000,COP,250,2021-01-20T14:26:34.000Z,Colombia,Bogotá D.C.,Manillas tyvek de seguridad entrada,4.8,166137471
+132,MCO1039,Cámaras y Accesorios,451321,Aro De Luz 26 Cm Con Trípode Profesional 2 Metros De Altura,{'MCO577975745': 246115},41500,COP,5000,2020-08-19T14:10:12.000Z,Colombia,Bogotá D.C.,26,4.6,626158207
+133,MCO1743,"Carros, Motos y Otros",45007,not found,not found,not found,not found,not found,not found,Colombia,not found,not found,not found,not found
+134,MCO1051,Celulares y Teléfonos,1089239,Audífonos in-ear inalámbricos F9-5 negro,{'MCO16224063': 0},38350,COP,10673,2020-11-05T13:24:10Z,Colombia,Valle Del Cauca,Genérica,4.4,1066063779
+135,MCO1648,Computación,910182,Disco sólido SSD interno Kingston SA400S37/240G 240GB negro,{'MCO19035706': 0},120000,COP,6603,2022-04-05T13:35:22Z,Colombia,Antioquia,Kingston,4.9,603582371
+136,MCO1144,Consolas y Videojuegos,248479,Audífonos gamer Redragon Ares negro y rojo,{'MCO16056056': 0},46000,COP,4488,2020-09-01T15:10:26Z,Colombia,Bogotá D.C.,Redragon,4.9,178562922
+137,MCO172890,Construcción,322796,Sonoff! Modulo Inteligente Y Controlador De Luces Y Tomas,{'MCO568121673': 191052},34900,COP,5000,2020-06-26T16:32:58.000Z,Colombia,Bogotá D.C.,Sonoff,4.8,213078376
+138,MCO1276,Deportes y Fitness,1746323,Kit De Pesas Ejercicio Mancuernas Juego De Pesas Termoforrad,{'MCO610951513': 236263},169900,COP,500,2021-03-08T19:09:18.000Z,Colombia,Cundinamarca,Home Sale,4.3,118807519
+139,MCO5726,Electrodomésticos,503411,"Ventilador Samurai Turbo Silence Maxx 3 en 1 turbo blanco con 6 aspas color  gris de  plástico, 18"" de diámetro 110 V",{'MCO19101758': 0},179900,COP,1230,2022-05-16T21:14:38Z,Colombia,Antioquia,Samurai,4.5,348553437
+140,MCO1000,"Electrónica, Audio y Video",1061137,Google Chromecast 3.ª generación Full HD carbón,{'MCO13841393': 0},132900,COP,18639,2019-01-27T14:58:22Z,Colombia,Cundinamarca,Google,4.9,478332182
+141,MCO175794,Herramientas,1350391,Hidrolavadora Black+Decker PW1450TD naranja/negro con 1512psi de presión máxima 127V,{'MCO18507736': 0},303800,COP,1716,2021-09-29T20:59:21Z,Colombia,Bogotá D.C.,Black+Decker,4.7,205607103
+142,MCO1574,Hogar y Muebles,6144537,Dispensador Automático De Agua Para Botellón Recargable,{'MCO536523458': 312325},19900,COP,650,2019-10-03T18:42:24.000Z,Colombia,Bogotá D.C.,Generic,4.4,61678362
+143,MCO1499,Industrias y Oficinas,424374,Tapabocas Kn95 Bolsa Individual - Unidad a $962,{'MCO808445031': 39588},19249,COP,1973,2021-09-15T04:35:11.000Z,Colombia,Bogotá D.C.,Adultos,4.9,523565962
+144,MCO1459,Inmuebles,183661,not found,not found,not found,not found,not found,not found,Colombia,not found,not found,not found,not found
+145,MCO1182,Instrumentos Musicales,343294,Guitarra Acústica+forro +método+pick De Rasgueo+envío Gratis,{'MCO562286973': 335566},145000,COP,500,2020-05-12T05:41:49.000Z,Colombia,Santander,No,4.8,528743523
+146,MCO1132,Juegos y Juguetes,2815428,Cactus Bailarín Canta Y Imita La Voz Peluche Luces Niños,{'MCO822937587': 13848},38900,COP,5,2021-10-19T19:47:51.000Z,Colombia,Bogotá D.C.,Cactus,4.6,418664651
+147,MCO3025,"Libros, Revistas y Comics",2218432,Uno Siempre Cambia El Amor De Su Vida - Amalia Andrade/nuevo,{'MCO881721209': 6220},15000,COP,200,2022-04-13T23:32:32.000Z,Colombia,Bogotá D.C.,No,0,540612729
+148,MCO1168,"Música, Películas y Series",147646,Álbum Bts Proof Compact Edition 2022 Original + Póster Kpop,{'MCO912301103': 1258},167998,COP,5,2022-06-21T19:50:21.000Z,Colombia,Bogotá D.C.,1,0,263065566
+149,MCO118204,"Recuerdos, Piñatería y Fiestas",700179,Inflador De Globos Electrico 600 Watts Doble Boquilla,{'MCO465527132': 118689},70000,COP,500,2018-03-02T16:37:29.000Z,Colombia,Bogotá D.C.,Picos adaptadores,4.7,60805616
+150,MCO3937,Relojes y Joyas,1216696,Pulso Manilla Repuesto Original Xiaomi Mi Band 5 / 6,{'MCO837388524': 2582},4990,COP,295,2021-11-29T22:40:30.000Z,Colombia,Antioquia,Goma,4,263751079
+151,MCO1430,Ropa y Accesorios,3110400,Crocs Literide Clog Hombre Y Dama,{'MCO865276202': 47992},72123,COP,1165,2022-03-01T15:22:14.000Z,Colombia,Valle Del Cauca,Adultos,4.8,534798942
+152,MCO180800,Salud y Equipamiento Médico,567321,Tensiómetro Digital Brazo Presión Arteri Función Voz+estuche,{'MCO602901651': 64198},79900,COP,5000,2021-01-20T14:51:01.000Z,Colombia,Bogotá D.C.,De brazo,4.7,208307959
+153,MCO1540,Servicios,2879,not found,not found,not found,not found,not found,not found,Colombia,not found,not found,not found,not found
+154,MCO1953,Otras categorías,415989,Kit Tatuaje Tatuar Tattoo 2 Maquinas Profesionales,{'MCO549732944': 127708},279900,COP,500,2020-01-21T19:50:24.000Z,Colombia,Risaralda,3 días,4.9,284385084
+155,MLA5725,Accesorios para Vehículos,7727903,Servicio De Envío Express De Telepase Mercado Pago,{'MLA899116906': 1114836},200,ARS,50000,2020-11-27T22:15:05.000Z,Argentina,Buenos Aires,Telepase,4.2,679055037
+156,MLA1512,Agro,13853,Hilo Electroplastico 6 Hilos Acero 500m Alambrados Boyeros,{'MLA884231736': 30463},3299,ARS,500,2020-10-16T20:00:01.000Z,Argentina,Santa Fe,Electroplast,4.7,231646489
+157,MLA1403,Alimentos y Bebidas,380653,Café au lait en cápsula Nescafé Dolce Gusto 16 u,{'MLA16167744': 0},899,ARS,94367,2020-10-15T14:11:24Z,Argentina,Buenos Aires,Nescafé Dolce Gusto,4.9,382204482
+158,MLA1071,Animales y Mascotas,209499,Alimento Excellent Adult para gato adulto sabor pollo y arroz en bolsa de 7.5 kg,{'MLA8726956': 0},6500,ARS,33618,2017-12-06T20:18:54Z,Argentina,Buenos Aires,Purina,4.8,727704382
+159,MLA1367,Antigüedades y Colecciones,506165,Cafetera Atma Desayuno CA8143 semi automática negra de filtro 220V,{'MLA15168895': 0},6649,ARS,6384,2019-10-02T19:30:38Z,Argentina,Capital Federal,Atma,4.6,4641264
+160,MLA1368,"Arte, Librería y Mercería",488523,Kit 10 Resmas Pampa A4 70 G Papel Blanco Caja X10 U,{'MLA1123489347': 18295},9400,ARS,500,2022-02-14T15:29:59.000Z,Argentina,Capital Federal,Pampa,4.9,214988544
+161,MLA1743,"Autos, Motos y Otros",181190,not found,not found,not found,not found,not found,not found,Argentina,not found,not found,not found,not found
+162,MLA1384,Bebés,250253,Pañales Pampers Premium Care  XXG 54 u,{'MLA16172375': 0},2970,ARS,94051,2020-10-15T20:57:49Z,Argentina,Buenos Aires,Pampers,4.9,91560641
+163,MLA1246,Belleza y Cuidado Personal,589870,Sérum L'oréal Paris Revitalift Ácido Hialurónico X 30ml,{'MLA1105967627': 402522},2185,ARS,5000,2021-09-29T21:55:02.000Z,Argentina,Buenos Aires,1,4.6,608885756
+164,MLA1039,Cámaras y Accesorios,77567,Tarjeta de memoria Kingston SDCS2SP  Canvas Select Plus con adaptador SD 128GB,{'MLA15916979': 0},3324,ARS,20542,2020-07-20T15:29:09Z,Argentina,Buenos Aires,Kingston,4.6,91046830
+165,MLA1051,Celulares y Teléfonos,415734,Auriculares in-ear inalámbricos F9 negro,{'MLA18638143': 0},2175,ARS,25587,2021-12-07T14:51:47Z,Argentina,Capital Federal,Genérica,0,157391331
+166,MLA1648,Computación,707238,Disco sólido interno Kingston SA400S37/240G 240GB negro,{'MLA19035706': 0},5339,ARS,59708,2022-04-05T13:35:22Z,Argentina,Buenos Aires,Kingston,4.8,210728070
+167,MLA1144,Consolas y Videojuegos,103626,Joystick inalámbrico Sony PlayStation Dualshock 4 jet black,{'MLA10312330': 0},10875,ARS,47196,2018-08-02T19:11:05Z,Argentina,Capital Federal,Sony,4.6,1157343463
+168,MLA1500,Construcción,704958,Bomba Presurizadora De Agua Elevadora Presion 9 Metros 220v,{'MLA758597355': 452791},8855.18,ARS,5150,2018-11-16T17:33:46.000Z,Argentina,Capital Federal,Femmto,4.6,113746522
+169,MLA1276,Deportes y Fitness,739437,"Xiaomi Mi Smart Band 6 1.56"" caja de  plástico pc  black, malla  black de  tpu y aleación de aluminio XMSH15HM",{'MLA17796174': 0},7820,ARS,114612,2021-04-13T16:09:16Z,Argentina,Buenos Aires,Xiaomi,4.7,44994779
+170,MLA5726,Electrodomésticos y Aires Ac.,336549,Pava eléctrica Liliana AP975 Tempomate negra 220V - 240V 1.7L,{'MLA8934092': 0},6890,ARS,16099,2018-02-19T17:29:10Z,Argentina,Buenos Aires,Liliana,4.6,3135574
+171,MLA1000,"Electrónica, Audio y Video",520242,Auriculares in-ear gamer inalámbricos Xiaomi Redmi AirDots 2 negro,{'MLA16141900': 0},3650,ARS,241502,2020-10-05T15:42:51Z,Argentina,Capital Federal,Chongqing Qianxing Technology,4.6,1148954315
+172,MLA2547,Entradas para Eventos,2908,"Bono Contribución - Expedición Sonrisa Los Hornos, La Plata",{'MLA926937432': 1217},400,ARS,250,2021-06-24T15:48:54.000Z,Argentina,Buenos Aires,Bono contribución - Expedición Sonrisa Los Hornos - La Plata,0,259551928
+173,MLA407134,Herramientas,495640,Amoladora angular Black+Decker G720N naranja 820 W 220 V Llaves,{'MLA6067073': 0},8299,ARS,57630,2015-08-03T16:17:46Z,Argentina,Córdoba,Black+Decker,4.7,493091840
+174,MLA1574,"Hogar, Muebles y Jardín",2522639,"Tira Luces Led 5050 Rgb, Kit Completo,control Y Fuente",{'MLA912468361': 1232150},2510.07,ARS,50000,2021-03-18T17:02:26.000Z,Argentina,Capital Federal,RGB,4.4,415105106
+175,MLA1499,Industrias y Oficinas,348090,Kit Mercado Pago Point Mini + Qr,{'MLA930649631': 1235620},499,ARS,5000,2021-07-23T18:55:55.000Z,Argentina,Capital Federal,Mercado Pago,4.3,228415881
+176,MLA1459,Inmuebles,670991,not found,not found,not found,not found,not found,not found,Argentina,not found,not found,not found,not found
+177,MLA1182,Instrumentos Musicales,239581,Guitarra Criolla Clasica Nuevas Calidad Con Funda Pua Manual,{'MLA698752044': 702318},12349.05,ARS,2000,2017-12-23T13:34:46.000Z,Argentina,Capital Federal,Guitarra Criolla,4.5,113746522
+178,MLA3937,Joyas y Relojes,337548,"Smartwatch Microwear W26 1.75"" caja de  aleación de zinc  negra, malla  negra",{'MLA16140521': 0},5499,ARS,9141,2020-10-02T17:14:30Z,Argentina,Buenos Aires,Microwear,4.1,1002842391
+179,MLA1132,Juegos y Juguetes,880665,Peluche Pokemon Varios Personajes Principales Pikachu 22cm,{'MLA923579170': 105675},1890,ARS,4561,2021-06-02T14:36:44.000Z,Argentina,Capital Federal,Pokemon,4.6,441571605
+180,MLA3025,"Libros, Revistas y Comics",10874487,Habitos Atomicos - James Clear - Ed. Paidos,{'MLA788985218': 4920},2950,ARS,500,2019-05-29T15:03:38.000Z,Argentina,Capital Federal,Papel,4.9,49117916
+181,MLA1168,"Música, Películas y Series",1219045,Bts Proof Compact Edition 3 Cd + Booklet Nuevo Importado,{'MLA1136201566': 18931},7900,ARS,250,2022-05-07T05:31:17.000Z,Argentina,Capital Federal,3,4.8,201200841
+182,MLA1430,Ropa y Accesorios,2168034,Zapatillas Jaguar Oficial Deportiva Art. # 918 Urbana Hombre Y Mujer,{'MLA800264201': 4792383},4174,ARS,13600,2019-07-15T14:24:41.000Z,Argentina,Buenos Aires,Cordones,4.2,278944476
+183,MLA409431,Salud y Equipamiento Médico,208390,Kit Tensiometro Digital + Oximetro Dedo Y Termometro Digital,{'MLA1106234512': 509163},6699,ARS,5000,2021-10-01T16:18:28.000Z,Argentina,Capital Federal,Manual,4.6,394109866
+184,MLA1540,Servicios,20106,not found,not found,not found,not found,not found,not found,Argentina,not found,not found,not found,not found
+185,MLA9304,"Souvenirs, Cotillón y Fiestas",337540,"Bolsa De 25 Globos Perlados 12 Fiesta, Decoración, Cumple",{'MLA916022485': 57949},780,ARS,5505,2021-04-13T16:52:48.000Z,Argentina,Buenos Aires,Latex,4.3,627469356
+186,MLA1953,Otras categorías,463825,Sahumerios Satya Nag Champa - 12 Unidades,{'MLA850751996': 204201},2367,ARS,2042,2020-04-22T00:20:13.000Z,Argentina,Capital Federal,Satya,4.8,191914203
+187,MGT1747,Accesorios para Vehículos,181,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+188,MGT1512,Agro,1,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+189,MGT1367,Arte y Antigüedades,77,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+190,MGT1743,"Autos, Motos y Otros",75,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+191,MGT1039,Cámaras Digitales y Foto.,130,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+192,MGT1051,Celulares y Teléfonos,511,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+193,MGT1798,Coleccionables y Hobbies,1,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+194,MGT1648,Computación,677,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+195,MGT1144,Consolas y Videojuegos,149,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+196,MGT1276,Deportes y Fitness,299,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+197,MGT1000,"Electrónica, Audio y Video",419,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+198,MGT1574,Hogar y Electrodomésticos,387,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+199,MGT1430,Indumentaria y Accesorios,74,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+200,MGT1459,Inmuebles,1781,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+201,MGT1182,Instrumentos Musicales,349,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+202,MGT3937,Joyas y Relojes,39,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+203,MGT1132,Juegos y Juguetes,764,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+204,MGT3025,"Libros, Revistas y Comics",23,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+205,MGT1168,Música y Películas,14,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+206,MGT1540,Servicios,1691,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+207,MGT1953,Otras categorías,496,not found,not found,not found,not found,not found,not found,Guatemala,not found,not found,not found,not found
+208,MBO1747,Accesorios para Vehículos,92,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+209,MBO1512,Agro,7,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+210,MBO1367,Arte y Antigüedades,38,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+211,MBO1743,"Autos, Motos y Otros",341,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+212,MBO1039,Cámaras Digitales y Foto.,310,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+213,MBO1051,Celulares y Teléfonos,716,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+214,MBO1798,Coleccionables y Hobbies,1,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+215,MBO1648,Computación,1331,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+216,MBO1144,Consolas y Videojuegos,168,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+217,MBO1276,Deportes y Fitness,253,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+218,MBO1000,"Electrónica, Audio y Video",537,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+219,MBO1574,Hogar y Electrodomésticos,306,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+220,MBO1430,Indumentaria y Accesorios,31,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+221,MBO1459,Inmuebles,78,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+222,MBO1182,Instrumentos Musicales,421,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+223,MBO3937,Joyas y Relojes,14,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+224,MBO1132,Juegos y Juguetes,17,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+225,MBO3025,"Libros, Revistas y Comics",7,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+226,MBO1168,Música y Películas,4,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+227,MBO1540,Servicios,201,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+228,MBO1953,Otras categorías,367,not found,not found,not found,not found,not found,not found,Bolivia,not found,not found,not found,not found
+229,MCR1747,Accesorios para Vehículos,20647,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+230,MCR1512,Agro,63,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+231,MCR1071,Animales y Mascotas,1456,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+232,MCR1367,Arte y Antigüedades,1655,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+233,MCR1743,"Autos, Motos y Otros",223,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+234,MCR1384,Bebés,986,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+235,MCR1039,Cámaras y Fotografía,1999,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+236,MCR1051,Celulares y Teléfonos,7915,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+237,MCR1798,Coleccionables y Hobbies,54,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+238,MCR1648,Computación,13744,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+239,MCR1144,Consolas y Videojuegos,1928,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+240,MCR1500,Construcción,269,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+241,MCR1276,Deportes y Fitness,3616,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+242,MCR1575,Electrodomésticos,12087,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+243,MCR1000,"Electrónica, Audio y Video",5581,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+244,MCR117005,Herramientas,1628,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+245,MCR1574,"Hogar, Muebles y Jardín",6991,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+246,MCR1499,Industrias y Oficinas,1299,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+247,MCR1459,Inmuebles,598,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+248,MCR1182,Instrumentos Musicales,418,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+249,MCR3937,Joyas y Relojes,2194,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+250,MCR1132,Juegos y Juguetes,1921,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+251,MCR3025,"Libros, Revistas y Comics",5212,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+252,MCR1168,Música y Películas,302,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+253,MCR1430,Ropa y Accesorios,2353,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+254,MCR1246,Salud y Belleza,4179,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+255,MCR1540,Servicios,268,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+256,MCR1953,Otras categorías,5244,not found,not found,not found,not found,not found,not found,Costa Rica,not found,not found,not found,not found
+257,MLV1747,Accesorios para Vehículos,3861331,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+258,MLV442454,Agro,11259,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+259,MLV122664,Alimentos y Bebidas,14275,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+260,MLV1071,Animales y Mascotas,30143,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+261,MLV1367,Antigüedades y Colecciones,24282,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+262,MLV445811,"Arte, Papelería y Mercería",90426,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+263,MLV1384,Bebés,52880,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+264,MLV1039,Cámaras y Accesorios,96106,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+265,MLV1743,"Carros, Motos y Otros",4693,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+266,MLV1051,Celulares y Teléfonos,232383,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+267,MLV1648,Computación,321079,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+268,MLV1144,Consolas y Videojuegos,25283,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+269,MLV1500,Construcción,299011,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+270,MLV1276,Deportes y Fitness,168549,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+271,MLV5726,Electrodomésticos,129952,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+272,MLV1000,"Electrónica, Audio y Video",164076,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+273,MLV1246,Estética y Belleza,157733,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+274,MLV424985,Herramientas,325822,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+275,MLV1574,Hogar y Muebles,452947,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+276,MLV1499,Industrias,177395,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+277,MLV1459,Inmuebles,219651,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+278,MLV1182,Instrumentos Musicales,36997,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+279,MLV1132,Juegos y Juguetes,148776,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+280,MLV3025,"Libros, Revistas y Comics",226404,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+281,MLV1176,"Música, Películas y Series",52384,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+282,MLV44011,"Recuerdos, Cotillón y Fiestas",47594,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+283,MLV3937,"Relojes, Joyas y Bisutería",40568,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+284,MLV1430,"Ropa, Zapatos y Accesorios",224448,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+285,MLV1540,Servicios,3763,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+286,MLV1953,Otras Categorías,147529,not found,not found,not found,not found,not found,not found,Venezuela,not found,not found,not found,not found
+287,MRD1747,Accesorios para Vehículos,979,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+288,MRD1512,Agro,246,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+289,MRD1367,Arte y Antigüedades,208,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+290,MRD1039,Cámaras Digitales y Foto,247,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+291,MRD1743,"Carros, Motos y Otros",7509,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+292,MRD1051,Celulares y Teléfonos,660,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+293,MRD1798,Coleccionables y Hobbies,7,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+294,MRD1648,Computación,2018,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+295,MRD1144,Consolas y Videojuegos,1455,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+296,MRD1276,Deportes y Fitness,677,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+297,MRD1000,Electrónica Audio Video,1125,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+298,MRD1574,Hogar y Electrodomésticos,6486,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+299,MRD1459,Inmuebles,109752,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+300,MRD1182,Instrumentos Musicales,220,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+301,MRD1132,Juegos y Juguetes,118,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+302,MRD3025,"Libros, Revistas y Comics",169,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+303,MRD1168,Música y Películas,11,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+304,MRD1430,"Ropa, Relojes y Lentes",693,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+305,MRD1540,Servicios,6647,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+306,MRD1953,Otras categorías,3791,not found,not found,not found,not found,not found,not found,Dominicana,not found,not found,not found,not found
+307,MNI1747,Accesorios para Vehículos,27,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+308,MNI1512,Agro,2,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+309,MNI1367,Arte y Antigüedades,19,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+310,MNI1743,"Autos, Motos y Otros",19,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+311,MNI1039,Cámaras Digitales y Foto.,18,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+312,MNI1051,Celulares y Teléfonos,46,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+313,MNI1798,Coleccionables y Hobbies,9,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+314,MNI1648,Computación,132,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+315,MNI1144,Consolas y Videojuegos,9,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+316,MNI1276,Deportes y Fitness,60,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+317,MNI1000,"Electrónica, Audio y Video",50,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+318,MNI1574,Hogar y Electrodomésticos,36,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+319,MNI1430,Indumentaria y Accesorios,20,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+320,MNI1459,Inmuebles,43,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+321,MNI1182,Instrumentos Musicales,76,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+322,MNI3937,Joyas y Relojes,5,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+323,MNI1132,Juegos y Juguetes,1,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+324,MNI3025,"Libros, Revistas y Comics",3,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+325,MNI1168,Música y Películas,2,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+326,MNI1540,Servicios,96,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+327,MNI1953,Otras categorías,77,not found,not found,not found,not found,not found,not found,Nicaragua,not found,not found,not found,not found
+328,MPA1747,Accesorios para Vehículos,19794,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+329,MPA1512,Agro,6,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+330,MPA1367,Arte y Antigüedades,103,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+331,MPA1039,Cámaras Digitales y Foto,15,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+332,MPA1743,"Carros, Motos y Otros",238,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+333,MPA1051,Celulares y Teléfonos,188,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+334,MPA1798,Coleccionables y Hobbies,4,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+335,MPA1648,Computación,267,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+336,MPA1144,Consolas y Videojuegos,42,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+337,MPA1276,Deportes y Fitness,50,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+338,MPA1000,Electrónica Audio Video,107,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+339,MPA1574,Hogar y Electrodomésticos,83,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+340,MPA1459,Inmuebles,5276,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+341,MPA1182,Instrumentos Musicales,55,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+342,MPA1132,Juegos y Juguetes,16,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+343,MPA3025,"Libros, Revistas y Comics",8,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+344,MPA1168,Música y Películas,3,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+345,MPA1430,"Ropa, Relojes y Lentes",66,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+346,MPA1540,Servicios,814,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+347,MPA1953,Otras categorías,520,not found,not found,not found,not found,not found,not found,Panamá,not found,not found,not found,not found
+348,MHN1747,Accesorios para Vehículos,37,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+349,MHN1512,Agro,4,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+350,MHN1367,Arte y Antigüedades,14,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+351,MHN1743,"Autos, Motos y Otros",10,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+352,MHN1039,Cámaras Digitales y Foto.,77,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+353,MHN1051,Celulares y Teléfonos,156,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+354,MHN1798,Coleccionables y Hobbies,5,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+355,MHN1648,Computación,226,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+356,MHN1144,Consolas y Videojuegos,32,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+357,MHN1276,Deportes y Fitness,85,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+358,MHN1000,"Electrónica, Audio y Video",58,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+359,MHN1574,Hogar y Electrodomésticos,42,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+360,MHN1430,Indumentaria y Accesorios,4,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+361,MHN1459,Inmuebles,6,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+362,MHN1182,Instrumentos Musicales,119,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+363,MHN3937,Joyas y Relojes,4,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+364,MHN1132,Juegos y Juguetes,7,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+365,MHN3025,"Libros, Revistas y Comics",4,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+366,MHN1168,Música y Películas,1,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+367,MHN1540,Servicios,89,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+368,MHN1953,Otras categorías,82,not found,not found,not found,not found,not found,not found,Honduras,not found,not found,not found,not found
+369,MLC1747,Accesorios para Vehículos,7930872,Kit Turbo Led H1 H3 H4 H7 H11 H13 9005 9006 880 12000lm/ R11,{'MLC550282826': 620647},5680,CLP,18500,2020-10-03T07:17:10.000Z,Chile,RM (Metropolitana),BETENSH luces turboled Ampolleta led Auto Headligh turboled Foco neblinero de VEHICULO  Faro delantero,4.2,494294258
+370,MLC1512,Agro,7675,100 Arete Cabra Borrego Ganado Enumerado Láser Con Numero,{'MLC971722030': 925},20890,CLP,25,2022-03-12T07:26:27.000Z,Chile,RM (Metropolitana),Genérica,5,1019669474
+371,MLC1403,Alimentos y Bebidas,49548,Café Nescafé® Tradición Tarro 400g,{'MLC533232914': 101770},10049,CLP,5000,2020-06-19T17:12:10.000Z,Chile,RM (Metropolitana),Nescafé,0,445649004
+372,MLC1071,Animales y Mascotas,447826,100 Pañales Tipo Sabanillas Mascotas Perros 33x45 Cms,{'MLC566010810': 36471},9490,CLP,5000,2020-12-06T22:32:13.000Z,Chile,RM (Metropolitana),,3.7,1505006
+373,MLC1367,Antigüedades y Colecciones,116003,Argolla Para Llavero 24mm + Unión Con Cadena X 100 Unidades,{'MLC446728566': 47141},5250,CLP,500,2017-06-27T00:33:56.000Z,Chile,RM (Metropolitana),Minifiestas.cl,4.9,198674338
+374,MLC1368,"Arte, Librería y Cordonería",692048,208 Piezas De Arte Para Niños Kit Set De Dibujo Portátil ,{'MLC968903624': 17673},11790,CLP,1000,2022-03-04T05:52:04.000Z,Chile,RM (Metropolitana),Xtech,4.4,711794822
+375,MLC1743,"Autos, Motos y Otros",11986,not found,not found,not found,not found,not found,not found,Chile,not found,not found,not found,not found
+376,MLC1384,Bebés,353633,Pañal Emubaby Premium Elige Talla Pack X 4 Paquetes,{'MLC549487401': 40623},13390,CLP,2500,2020-09-28T23:07:42.000Z,Chile,RM (Metropolitana),emubaby,4.8,102033291
+377,MLC1246,Belleza y Cuidado Personal,788055,Guantes De Vinilo Caja 100 Unidades Desechable Tallas  M ,{'MLC599640342': 148211},3270,CLP,1755,2021-03-31T21:00:58.000Z,Chile,RM (Metropolitana),Guantes vinilo descartables,4.5,651964590
+378,MLC1039,Cámaras y Accesorios,289445,Papel  Adhesivo Glossy 135 Grs A4 50 Hojas,{'MLC446834123': 50507},5690,CLP,5000,2017-06-30T17:28:49.000Z,Chile,RM (Metropolitana),Energy,4.8,262460748
+379,MLC1051,Celulares y Telefonía,739023,Audífonos in-ear inalámbricos F9-5 negro,{'MLC16224063': 0},6510,CLP,44230,2020-11-05T13:24:10Z,Chile,RM (Metropolitana),Genérica,4.3,733822513
+380,MLC1648,Computación,625157,Disco sólido SSD interno Kingston SA400S37/480G 480GB negro,{'MLC17978326': 0},44365,CLP,17491,2021-05-28T18:04:12Z,Chile,Valparaíso,Kingston,4.9,708261480
+381,MLC1144,Consolas y Videojuegos,77949,Control joystick inalámbrico Monster games Double shock PS4 negro,{'MLC17425806': 0},20990,CLP,9474,2021-03-02T14:31:01Z,Chile,RM (Metropolitana),Monster games,4.4,538557915
+382,MLC1500,Construcción,264687,2 X Cabezal Ducha Teléfono Mango Filtro Ahorro Agua Purific,{'MLC622135652': 14287},6590,CLP,500,2021-06-18T19:47:32.000Z,Chile,RM (Metropolitana),VENDITO,4.3,1505006
+383,MLC1276,Deportes y Fitness,1073132,Set De Mancuernas 20kg Barra Armable Ajustable Pesas Discos,{'MLC940787009': 8909},31950,CLP,500,2021-12-05T16:50:31.000Z,Chile,RM (Metropolitana),Sí,4.8,540856515
+384,MLC5726,Electrodomésticos,209856,Bomba Dispensador Usb Agua Electrónico Recargable Botellón ,{'MLC614074083': 66226},3990,CLP,5000,2021-05-19T15:24:45.000Z,Chile,RM (Metropolitana),automatic,4.6,671377593
+385,MLC1000,"Electrónica, Audio y Video",430419,Audífonos in-ear inalámbricos F9-5 negro,{'MLC16224063': 0},6510,CLP,44230,2020-11-05T13:24:10Z,Chile,RM (Metropolitana),Genérica,4.3,733822513
+386,MLC110931,Entradas para Eventos,239,not found,not found,not found,not found,not found,not found,Chile,not found,not found,not found,not found
+387,MLC178483,Herramientas,858908,Pistola De Calor Aire Caliente 2000w,{'MLC453889331': 323707},7792,CLP,5000,2017-12-22T12:59:45.000Z,Chile,RM (Metropolitana),Azul oscuro,4.7,217238942
+388,MLC1574,Hogar y Muebles,3160285,Cámara Ip Con Movimiento Infrarrojo Impermeable Wifi Full Hd,{'MLC519757958': 230655},29490,CLP,5000,2020-02-03T04:27:09.000Z,Chile,RM (Metropolitana),Inalámbrico,4.4,480520521
+389,MLC1499,Industrias y Oficinas,227934,Mascarilla Desechable Certificada 3 Capas Caja 50 Unidades ,{'MLC549471238': 690784},2990,CLP,103475,2020-09-28T18:09:46.000Z,Chile,Maule,,4.4,579075469
+390,MLC1459,Inmuebles,217967,not found,not found,not found,not found,not found,not found,Chile,not found,not found,not found,not found
+391,MLC1182,Instrumentos Musicales,200186,Melodica 37 Tonos. Roja,{'MLC915421642': 2353},16990,CLP,250,2021-09-29T15:23:29.000Z,Chile,RM (Metropolitana),GEN,4.5,809231755
+392,MLC1132,Juegos y Juguetes,1249873,Album Cartas Pokemon 240 Uni Carpeta Pikachu Charizard Etc,{'MLC964698729': 37763},8392,CLP,1942,2022-02-18T20:32:22.000Z,Chile,Maule,Pokémon,4.6,258636227
+393,MLC3025,"Libros, Revistas y Comics",3468287,Propuesta Final De Nueva Constitucion Politica De Chile 2022,{'MLC1027411662': 4317},2730,CLP,500,2022-07-21T17:38:56.000Z,Chile,RM (Metropolitana),NOINCLUYE,0,705626509
+394,MLC1168,Música y Películas,298900,Twice Album Formula Of Love Version A Eleccion Original,{'MLC981020595': 5180},54990,CLP,45,2022-04-07T20:31:53.000Z,Chile,RM (Metropolitana),,4.3,1098487086
+395,MLC3937,Relojes y Joyas,743244,Reloj Despertador Pantalla Led Fecha Temperatura Alarma,{'MLC911669975': 8173},6640,CLP,500,2021-09-22T10:42:19.000Z,Chile,RM (Metropolitana),Pantalla Led,4.4,757379515
+396,MLC409431,Salud y Equipamiento Médico,168535,Wild Bar - 16 Unidades - Proteina,{'MLC575882382': 39418},15000,CLP,2100,2021-01-19T16:19:12.000Z,Chile,RM (Metropolitana),,5,325923184
+397,MLC1540,Servicios,3681,not found,not found,not found,not found,not found,not found,Chile,not found,not found,not found,not found
+398,MLC435280,"Souvenirs, Cotillón y Fiestas",372294,Inflador De Globos Eléctrico 2 Inyectores,{'MLC514226305': 78942},10990,CLP,5000,2019-11-15T22:43:14.000Z,Chile,RM (Metropolitana),,4.7,288549222
+399,MLC1430,Vestuario y Calzado,2911778,Polera Hellfire Club Stranger Things Raglan Algodón Grafimax,{'MLC1024880635': 11749},18990,CLP,675,2022-07-16T18:50:48.000Z,Chile,RM (Metropolitana),Grafimax,5,52678700
+400,MLC1953,Otras Categorías,66882,Velas Lisas Esotéricas Pack 10un / Premierhouz,{'MLC623202053': 12370},2790,CLP,4403,2021-06-22T18:18:46.000Z,Chile,RM (Metropolitana),,4.8,716971357
+401,MPE1747,Accesorios para Vehículos,102662,Kit Foco Led Luz Canbus H4 Lupa Proyector Premium Alta Baja,{'MPE608066388': 1351},162.9,PEN,25,2022-02-14T20:19:57.000Z,Perú,Lima Metropolitana,IR100-,0,212937453
+402,MPE1512,Agro,7010,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+403,MPE1403,Alimentos y Bebidas,13076,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+404,MPE1071,Animales y Mascotas,20078,"Kit Maquina De Cortar Pelo Mascotas,perros,gatos Recargable",{'MPE601806365': 2485},75.99,PEN,100,2021-09-28T19:29:42.000Z,Perú,Lima Metropolitana,1,5,274620813
+405,MPE1367,Antigüedades y Colecciones,234288,Álbum Monedas Colección Riqueza Y Orgullo Y Fauna Silvestre,{'MPE441277848': 5766},9.5,PEN,50,2020-09-23T18:48:41.000Z,Perú,Lima Metropolitana,,0,158905694
+406,MPE443829,"Arte, Librería y Mercería",21399,Crayola Supertips 100 Plumones Lavables - Niños Y Jóvenes,{'MPE447052253': 5444},128.25,PEN,100,2021-07-12T20:26:32.000Z,Perú,Lima Metropolitana,Crayola,5,39657735
+407,MPE1743,"Autos, Motos y Otros",966,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+408,MPE1384,Bebés,19433,Extractor Zimeitu Leche Materna Eléctrico Doble Bpa Free ,{'MPE437259041': 8857},189.99,PEN,100,2019-07-22T20:31:09.000Z,Perú,Lima Metropolitana,Zimeitu,5,150193899
+409,MPE1246,Belleza y Cuidado Personal,64931,Biotin Biotina Cabello Barba,{'MPE441029515': 23187},55,PEN,500,2020-08-29T04:17:05.000Z,Perú,Lima Metropolitana,Nutricost,4.9,37004418
+410,MPE1039,Cámaras y Accesorios,15709,Trípode 3120 Cámara Y Celular Hasta 1020mm Alto Alumino,{'MPE441844278': 6600},19.49,PEN,150,2020-10-31T14:14:00.000Z,Perú,Lima Metropolitana,Genérica,4.7,468096646
+411,MPE1051,Celulares y Teléfonos,105128,Xiaomi Redmi Note 11 4gb-128gb Original - Tienda Oficial,{'MPE607311001': 55496},819,PEN,605,2022-01-27T18:25:09.000Z,Perú,Lima Metropolitana,Cargador,4.8,399620474
+412,MPE1648,Computación,163599,Apple iPad Wi-fi 64 Gb (9ª Generación),{'MPE602742597': 26352},1499,PEN,300,2021-10-14T19:30:45.000Z,Perú,Lima Metropolitana,10 h,5,766642543
+413,MPE1144,Consolas y Videojuegos,23608,Steam Silver Key | Juego Aleatorio - Entrega Inmediata,{'MPE447799506': 3268},2,PEN,500,2021-08-05T22:49:33.000Z,Perú,La Libertad,Steam,5,802866139
+414,MPE1500,Construcción,33830,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+415,MPE1276,Deportes y Fitness,50964,Creabolic 1 Kilo Creatina Monohidratada+regalo Tienda Fisica,{'MPE609485637': 1718},169,PEN,100,2022-03-14T03:07:25.000Z,Perú,Lima Metropolitana,,0,648484812
+416,MPE1575,Electrodomésticos,19414,Jarra Cafetera Tipo Oster 12 Tazas,{'MPE441173867': 3644},58.5,PEN,50,2020-09-14T17:50:16.000Z,Perú,Lima Metropolitana,Oster,0,599620245
+417,MPE1000,"Electrónica, Audio y Video",49569,Audífonos Bluetooth Inalámbrica F9 Táctil,{'MPE445642979': 19323},49.77,PEN,505,2021-05-18T13:04:55.000Z,Perú,Lima Metropolitana,F9,4.1,257367013
+418,MPE127606,Herramientas,55624,Hidrolavadora Inalámbrica  De Auto De Alta Presión 24v,{'MPE609268538': 6440},255,PEN,50,2022-03-11T00:59:03.000Z,Perú,Lima Metropolitana,"Manguera,Cargador,Bateria",4.7,729667875
+419,MPE1574,"Hogar, Muebles y Jardín",130694,Proyector Bluetooth Luces Led Control Parlante Nocturno,{'MPE605809840': 3202},89.17,PEN,50,2021-12-11T00:45:10.000Z,Perú,Lima Metropolitana,Plástico,0,257367013
+420,MPE1499,Industrias y Oficinas,57141,Gaveta Dinero Caja Registradora Punto Venta 34x37x8cm Nuevo,{'MPE427353641': 19078},180.41,PEN,200,2017-10-25T14:49:51.000Z,Perú,Lima Metropolitana,2 llaves,4.8,109163302
+421,MPE1459,Inmuebles,1796,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+422,MPE1182,Instrumentos Musicales,16931,Soporte Sujetador Brazo Flexible Anti Pop Micrófono Cp02,{'MPE444157037': 19872},69,PEN,500,2021-03-14T00:03:20.000Z,Perú,Lima Metropolitana,Trípode,4.7,77338600
+423,MPE3937,Joyas y Relojes,42589,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+424,MPE1132,Juegos y Juguetes,108614,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+425,MPE3025,"Libros, Revistas y Comics",94958,El. Poder. Del. Metabolismo. Colección  5. Libros.  Nuevos ,{'MPE607071038': 473},155,PEN,5,2022-01-24T03:17:42.000Z,Perú,Lima Metropolitana,No,0,527868128
+426,MPE1168,Música y Películas,46769,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+427,MPE112701,"Recuerdos, Cotillón y Fiestas",39433,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+428,MPE1430,Ropa y Accesorios,145864,Bombert Jacket De Hombre Chaquete De Hombre Combert,{'MPE437002016': 128109},90.25,PEN,322,2019-07-05T01:57:58.000Z,Perú,Lima Metropolitana,Bong Spec / Toopers,4.5,354354680
+429,MPE409431,Salud y Equipamiento Médico,59151,Citrato De Magnesio Magnesium Citrate 240 Capsulas,{'MPE442021471': 13491},88,PEN,500,2020-11-19T20:31:24.000Z,Perú,Lima Metropolitana,,4.7,37004418
+430,MPE1540,Servicios,2346,not found,not found,not found,not found,not found,not found,Perú,not found,not found,not found,not found
+431,MPE1953,Otras categorías,85583,Amazon Gift Card Desde 2$_ Código Digital Envio Rápido,{'MPE440927373': 4107},10,PEN,500,2020-08-19T15:26:59.000Z,Perú,Lima Metropolitana,Amazon USA,0,338688107
+432,MLM1747,Accesorios para Vehículos,30520716,Kit De Faros Delanteros De 4 Lados H7 9005 Led Rayo Bajo,{'MLM744487620': 805263},130.26,MXN,20000,2019-12-13T09:48:50.000Z,Mexico,Estado De México,PHELENSEYE,4.2,499692964
+433,MLM189530,Agro,17956,Soldadora inverter Bergën SB130 azul y negra 50Hz/60Hz 110V/220V,{'MLM17496340': 0},1599,MXN,7150,2021-03-25T17:01:06Z,Mexico,Estado De México,Bergën,4.5,92299108
+434,MLM1403,Alimentos y Bebidas,304630,Zulka Azúcar Morena 900 Gr,{'MLM904355177': 122443},19.9,MXN,50000,2021-04-10T03:35:48.000Z,Mexico,Sinaloa,Zulka,0,684036673
+435,MLM1071,Animales y Mascotas,705047,Alimento Nupec Nutrición Científica para perro adulto de raza  mediana y grande sabor mix en bolsa de 20kg,{'MLM8737760': 0},1489,MXN,93093,2017-12-14T18:22:13Z,Mexico,Estado De México,Grupo Nutec,4.9,688635735
+436,MLM1367,Antigüedades y Colecciones,426666,Licuadora T-fal Power Mix LN2838MX 1.7 L negra con vaso de vidrio 127V,{'MLM19037022': 0},522,MXN,2083,2022-04-05T18:29:43Z,Mexico,Estado De México,T-fal,0,527927603
+437,MLM1368,"Arte, Papelería y Mercería",856460,Marcadores Doble Punta Plumones Punta Pincel Iforu 48 Colors,{'MLM866490208': 614675},232.86,MXN,5000,2021-01-22T12:24:59.000Z,Mexico,Estado De México,Generic,4.8,535408944
+438,MLM1743,"Autos, Motos y Otros",87639,not found,not found,not found,not found,not found,not found,Mexico,not found,not found,not found,not found
+439,MLM1384,Bebés,402531,Almohada Para  Embarazo Y Lactancia Jumbo + Regalo Microgel,{'MLM676845512': 890420},434,MXN,9750,2019-04-14T03:21:59.000Z,Mexico,Estado De México,Microfibra siliconada de primera calidad o Microgel ( costo extra),4.3,158775189
+440,MLM1246,Belleza y Cuidado Personal,1189539,Blister Pestañas Nagaraku Aplicacion Mink 1x1 1pz Una Medida,{'MLM794169325': 748764},109,MXN,66346,2020-07-15T01:49:14.000Z,Mexico,Distrito Federal,Nagaraku,4.6,238671534
+441,MLM1039,Cámaras y Accesorios,498435,Lampara Aro De Luz Led De 10 Pulgadas Con Tripie Portatil,{'MLM847166156': 625850},286.9,MXN,5000,2020-12-05T00:16:03.000Z,Mexico,Distrito Federal,"SOPORTE CELULAR,TRIPIE PORTATIL DE 1.20M",4.6,454041265
+442,MLM1051,Celulares y Telefonía,1493388,Audífonos in-ear inalámbricos F9-5 negro,{'MLM16224063': 0},154,MXN,794439,2020-11-05T13:24:10Z,Mexico,Jalisco,Genérica,4.5,1053077376
+443,MLM1648,Computación,1631781,"Repetidor, Range extender Xiaomi Mi Wi-Fi Range Extender Pro R03 negro 100V/240V",{'MLM10448369': 0},299,MXN,183886,2018-08-10T00:50:08Z,Mexico,Distrito Federal,Xiaomi,4.6,337119560
+444,MLM1144,Consolas y Videojuegos,290665,Tarjeta de memoria Kingston SDCS2SP  Canvas Select Plus con adaptador SD 128GB,{'MLM15916979': 0},299,MXN,21909,2020-07-20T15:29:09Z,Mexico,Distrito Federal,Kingston,4.9,683622308
+445,MLM1500,Construcción,1061542,Bomba periférica Truper BOAP-1/2A2 0.5hp negra 60Hz 127V,{'MLM16110430': 0},595,MXN,25372,2020-09-23T20:10:15Z,Mexico,Estado De México,Truper,4.5,836372423
+446,MLM1276,Deportes y Fitness,1995446,Suplemento en polvo Meta Nutrition  Creatine + creatina en sachet de 500g,{'MLM18548100': 0},526,MXN,55968,2021-10-15T16:03:09Z,Mexico,Sonora,Meta Nutrition,0,331551040
+447,MLM1575,Electrodomésticos,482805,Bascula Digital Gramera Lcd De 3 Gramos A 10 Kilos Hard Work,{'MLM549925001': 189901},90,MXN,13600,2016-04-04T20:33:05.000Z,Mexico,Jalisco,Queen Sense,4.7,119786025
+448,MLM1000,"Electrónica, Audio y Video",966676,Audífonos in-ear inalámbricos F9-5 negro,{'MLM16224063': 0},154,MXN,794439,2020-11-05T13:24:10Z,Mexico,Jalisco,Genérica,4.5,1053077376
+449,MLM186863,Herramientas,1678956,Careta De Soldar Uso Industrial Soldadura Electronica Diseño,{'MLM739634532': 438531},298,MXN,12000,2019-11-21T23:23:47.000Z,Mexico,Estado De México,Adir/Tulplus,4.5,399621798
+450,MLM1574,"Hogar, Muebles y Jardín",5997079,Sábanas Matrimoniales 2500 Hilos Tacto Suave Egipcio Premium,{'MLM927536151': 405010},269.55,MXN,8400,2021-06-03T17:54:19.000Z,Mexico,Estado De México,Onstore,4.5,762471204
+451,MLM1499,Industrias y Oficinas,765495,Cubrebocas Kn95 Tapabocas 5 Capas Reutilizables Certificado ,{'MLM882420284': 884695},229,MXN,23505,2021-03-01T19:19:44.000Z,Mexico,Distrito Federal,Adultos,4.2,671689030
+452,MLM1459,Inmuebles,445475,not found,not found,not found,not found,not found,not found,Mexico,not found,not found,not found,not found
+453,MLM1182,Instrumentos Musicales,308582,Guitarra Acústica Curva Ocelotl Paquete Vital De Accesorios ,{'MLM806556541': 615218},1299,MXN,2700,2020-08-18T13:39:48.000Z,Mexico,Michoacán,No,4.5,252929612
+454,MLM3937,Joyas y Relojes,1103887,Correa Acero Compatible Con Apple Watch Series 7 Se 6 5 4 3 ,{'MLM1309904878': 64266},170,MXN,4208,2021-09-14T04:03:55.000Z,Mexico,Nuevo León,Acero inoxidable,4.7,87753744
+455,MLM1132,Juegos y Juguetes,2711585,"Juguete Cactus Bailando 120 Canciones En Español, Recargable",{'MLM1328209541': 111525},182.16,MXN,5000,2021-10-19T06:57:04.000Z,Mexico,Estado De México,Cactus,4.5,808072969
+456,MLM3025,"Libros, Revistas y Comics",3242075,Juguemos A Leer / Manual De Ejercicios + Libro De Lectura,{'MLM864877173': 53341},139.99,MXN,500,2021-01-19T18:49:08.000Z,Mexico,Distrito Federal,Papel,4.9,701296601
+457,MLM1168,"Música, Películas y Series",744136,Lightstick Bts Army Bomb V4 Bluetooth,{'MLM1332543133': 48751},999,MXN,500,2021-10-27T09:16:41.000Z,Mexico,Oaxaca,731722774763,4.6,739800438
+458,MLM44011,"Recuerdos, Cotillón y Fiestas",724382,Spiderman Heroes Expedition Hombre Araña Niños Cosplay Ropa,{'MLM1350645138': 89461},379,MXN,2000,2021-12-04T08:31:23.000Z,Mexico,Estado De México,,4.4,744110390
+459,MLM1430,"Ropa, Bolsas y Calzado",5392575,Mochila De Gran Capacidad Con Cargador Usb,{'MLM920967358': 763734},288.58,MXN,11000,2021-05-17T10:02:02.000Z,Mexico,Estado De México,25 L,4.5,739390298
+460,MLM187772,Salud y Equipamiento Médico,288938,Suplemento en polvo Meta Nutrition  Creatine + creatina en sachet de 500g,{'MLM18548100': 0},526,MXN,55968,2021-10-15T16:03:09Z,Mexico,Sonora,Meta Nutrition,0,331551040
+461,MLM1540,Servicios,4240,not found,not found,not found,not found,not found,not found,Mexico,not found,not found,not found,not found
+462,MLM1953,Otras Categorías,669636,Encendedor Eléctrico De Cocina Recargable Usb Arco Koovi,{'MLM1411521774': 15407},142.4,MXN,1450,2022-04-25T21:09:16.000Z,Mexico,Distrito Federal,koovi basics,4.6,179341552
+463,MLU5725,Accesorios para Vehículos,568460,Baterias Autos Bartl 90 Amp Garantía 12 Meses,{'MLU443916183': 180182},2449,UYU,500,2017-02-21T14:08:22.000Z,Uruguay,Montevideo,60 Ah,4.6,188721848
+464,MLU1512,Agro,5941,Malla Antimaleza (ground Cover) - Carolina S.a,{'MLU459346729': 14406},2.5,USD,500,2018-12-24T13:46:50.000Z,Uruguay,Canelones,No,4.8,220908173
+465,MLU1403,Alimentos y Bebidas,16491,Capsulas Starbucks Espresso X12 Capsulas Universo Binario,{'MLU481114572': 755},199,UYU,150,2021-08-05T04:07:56.000Z,Uruguay,Montevideo,Starbucks,0,83798950
+466,MLU1071,Animales y Mascotas,70467,Alimento Lager Adulto Premium para perro adulto en bolsa de 25kg,{'MLU18908565': 0},1774,UYU,4666,2022-01-25T18:54:28Z,Uruguay,Montevideo,Agrofeed,4.7,204338386
+467,MLU1367,Antigüedades y Colecciones,66700,Bandana De Konoha Aldea La Hoja Cinta Negra Naruto,{'MLU477065191': 39804},297,UYU,500,2021-01-16T19:54:46.000Z,Uruguay,Montevideo,,4.8,22045787
+468,MLU442392,"Arte, Librería y Mercería",56634,Crayola: Caja X100 Marcadores Delgados Lavables ,{'MLU476800574': 4281},1399,UYU,100,2020-12-30T17:36:32.000Z,Uruguay,Montevideo,Crayola,5,621900856
+469,MLU1743,"Autos, Motos y Otros",26046,not found,not found,not found,not found,not found,not found,Uruguay,not found,not found,not found,not found
+470,MLU1384,Bebés,70312,Alfombra Antigolpe 180x150 Tatami Colchoneta Infantil El Rey,{'MLU461057367': 136804},999,UYU,179,2019-03-04T17:42:09.000Z,Uruguay,Montevideo,by El Rey,4.8,83198226
+471,MLU1246,Belleza y Cuidado Personal,111204,Secador de pelo Punktal PK-2200 violeta y negro 220V,{'MLU18582234': 0},997,UYU,2141,2021-10-28T19:19:20Z,Uruguay,Montevideo,Punktal,4.6,175850089
+472,MLU1039,Cámaras y Accesorios,38098,Anillo Aro Luz Led Con Control + 3 Luces Tic Tok Youtube Tbx,{'MLU475688398': 56440},739,UYU,650,2020-10-27T14:53:06.000Z,Uruguay,Montevideo,,4.6,75950568
+473,MLU1051,Celulares y Telefonía,145148,Auriculares in-ear gamer inalámbricos Xiaomi Redmi Buds 3 Lite negro,{'MLU19031223': 0},32,USD,480,2022-03-31T22:36:50Z,Uruguay,Montevideo,Dongguan Yingsheng Electronic Technology,4.8,324306590
+474,MLU1648,Computación,273462,Disco sólido interno Kingston SA400S37/240G 240GB negro,{'MLU19035706': 0},34.98,USD,1558,2022-04-05T13:35:22Z,Uruguay,Montevideo,Kingston,4.9,122912759
+475,MLU1144,Consolas y Videojuegos,47285,Joystick Mando Control Ps4 Play 4 Inalambrico Alta Calidad ®,{'MLU475139699': 28611},1290,UYU,500,2020-09-29T02:15:58.000Z,Uruguay,Montevideo,TOPTECNOUY,4.6,77926620
+476,MLU1500,Construcción,131266,Placa Revestimiento Pared Autoadhesiva 70x77cm - Ladrillo ®,{'MLU478401851': 91423},100,UYU,5500,2021-03-29T03:05:47.000Z,Uruguay,Montevideo,TOPTECNOUY,4.2,77926620
+477,MLU1276,Deportes y Fitness,126967,Set 2 Mancuernas + Barra 3en1 + 20kg Disco Pesa Pvc - El Rey,{'MLU480581416': 28273},1599,UYU,625,2021-07-06T20:52:39.000Z,Uruguay,Montevideo,Nuevo,4.8,83198226
+478,MLU5726,Electrodomésticos y Aires Ac.,71526,Aspiradora Punktal PK-8208 2L  roja y negra 220V,{'MLU18604038': 0},2470,UYU,1615,2021-11-08T15:42:58Z,Uruguay,Montevideo,Punktal,4.4,81670356
+479,MLU1000,"Electrónica, Audio y Video",128635,Google Chromecast 3.ª generación Full HD carbón,{'MLU13841393': 0},49,USD,13430,2019-01-27T14:58:22Z,Uruguay,Montevideo,Google,4.8,81670356
+480,MLU208736,Herramientas,140137,Taladro Inalambrico 12v + Atornillador + Accesorios Oferta!!,{'MLU470323679': 212459},1780,UYU,500,2020-03-03T12:31:47.000Z,Uruguay,Montevideo,Taladro/Destornillador,4.6,13859593
+481,MLU1574,"Hogar, Muebles y Jardín",516675,Tendedero De Pie Plegable Acero 8 Mts Ropa Mor - Garageimpo,{'MLU452296042': 66228},946,UYU,750,2018-04-03T23:57:07.000Z,Uruguay,Montevideo,No,4.8,263255939
+482,MLU1499,Industrias y Oficinas,53679,Kit Oficial Para Código Qr De Mercado Pago,{'MLU607147058': 18561},250,UYU,500,2022-01-25T18:49:00.000Z,Uruguay,Montevideo,No,4.1,1036587919
+483,MLU1459,Inmuebles,245951,not found,not found,not found,not found,not found,not found,Uruguay,not found,not found,not found,not found
+484,MLU1182,Instrumentos Musicales,38943,Guitarra Clasica Ideal Para Aprender! + Funda,{'MLU465435274': 68769},2429,UYU,435,2019-08-06T23:47:19.000Z,Uruguay,Montevideo,No,4.5,352172083
+485,MLU3937,Joyas y Relojes,71949,Reloj Banda Digital Led Para Niños Con Diseños Varios - Otec,{'MLU606062351': 9246},400,UYU,158,2021-12-24T01:29:24.000Z,Uruguay,Montevideo,Genérica,4.2,163115426
+486,MLU1132,Juegos y Juguetes,137902,Monopatín Tripatín Estampado C/ Luz Scooter Regulable El Rey,{'MLU449539063': 134049},1490,UYU,800,2017-11-04T15:07:19.000Z,Uruguay,Montevideo,Niños,4.6,83198226
+487,MLU442458,"Libros, Revistas y Comics",1470135,Libro Cuento Animales Alegres Pack X12,{'MLU463797291': 13777},399,UYU,250,2019-06-04T19:36:23.000Z,Uruguay,Montevideo,Papel,4.5,181737933
+488,MLU1168,Música y Películas,58820,Pasar Películas Vhs /vhs-c  A Pendrive  Desde $ 250,{'MLU469349641': 11837},350,UYU,100,2020-01-13T14:26:28.000Z,Uruguay,Montevideo,1,5,60441730
+489,MLU1430,"Ropa, Calzados y Accesorios",217685,Remera Stranger Things Hellfire Club,{'MLU613075535': 7732},490,UYU,500,2022-05-31T16:33:57.000Z,Uruguay,Montevideo,Maldito Ramon,4.9,124773885
+490,MLU409431,Salud y Equipamiento Médico,33460,Masajeador Electrico Like Cuerpo Espalda Cuello Shiatsu Dimm,{'MLU473348752': 86157},939,UYU,250,2020-07-06T16:28:57.000Z,Uruguay,Montevideo,"Cervical,Pies,Todo el cuerpo,cuello,cervicales",4.6,97669372
+491,MLU1540,Servicios,5223,not found,not found,not found,not found,not found,not found,Uruguay,not found,not found,not found,not found
+492,MLU111079,"Souvenirs, Cotillón y Fiestas",57923,Máquina Inflador 600w 2iny + Pack X100 Globos Regalo! El Rey,{'MLU452984708': 72690},990,UYU,500,2018-04-24T16:51:46.000Z,Uruguay,Montevideo,by El Rey,4.7,83198226
+493,MLU1953,Otras categorías,50297,Mochila Termica Para Delivery,{'MLU480130573': 7743},1290,UYU,250,2021-06-15T15:38:37.000Z,Uruguay,Montevideo,Uber eats,4.8,762711355
